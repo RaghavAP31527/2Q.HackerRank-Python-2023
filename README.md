@@ -9,6 +9,7 @@
 
 
 🧮 Conditional Actions: The program performs a series of conditional checks on the input integer n:
+
 Condition 1: If n is odd (i.e., not divisible by 2), it prints "Weird."
 Condition 2: If n is even (i.e., divisible by 2) and falls within the inclusive range of 2 to 5, it prints "Not Weird."
 Condition 3: If n is even (i.e., divisible by 2) and falls within the inclusive range of 6 to 20, it prints "Weird."
