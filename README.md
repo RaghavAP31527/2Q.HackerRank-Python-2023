@@ -6,6 +6,8 @@
 
 🎯 Output Format: The goal of the program is to print either "Weird" or "Not Weird" based on certain conditions.
 ![Screenshot 2023-10-01 071703](https://github.com/RaghavAP31527/2Q.HackerRank-Python-2023/assets/139637644/7f82e87d-b78a-4cfc-9115-08db6a64c463)
+
+
 🧮 Conditional Actions: The program performs a series of conditional checks on the input integer n:
 Condition 1: If n is odd (i.e., not divisible by 2), it prints "Weird."
 Condition 2: If n is even (i.e., divisible by 2) and falls within the inclusive range of 2 to 5, it prints "Not Weird."
