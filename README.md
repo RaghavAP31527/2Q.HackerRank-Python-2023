@@ -19,6 +19,9 @@ Condition 3: If n is even (i.e., divisible by 2) and falls within the inclusive 
 Condition 4: If n is even (i.e., divisible by 2) and greater than 20, it prints "Not Weird."
 
 🖥️ Sample Input 0: In the first sample input, n is 3, which is odd. Therefore, it satisfies Condition 1, and the program prints "Weird."
+
 🖥️ Sample Output 0: The output for Sample Input 0 is "Weird," as explained above.
+
 🖥️ Sample Input 1: In the second sample input, n is 24, which is even. It falls into the range specified in Condition 4 (greater than 20), so the program prints "Not Weird."
+
 🖥️ Sample Output 1: The output for Sample Input 1 is "Not Weird," as explained above.
