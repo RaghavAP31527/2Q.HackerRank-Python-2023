@@ -17,6 +17,8 @@ Condition 2: If n is even (i.e., divisible by 2) and falls within the inclusive 
 Condition 3: If n is even (i.e., divisible by 2) and falls within the inclusive range of 6 to 20, it prints "Weird."
 
 Condition 4: If n is even (i.e., divisible by 2) and greater than 20, it prints "Not Weird."
+![Screenshot 2023-10-01 071752](https://github.com/RaghavAP31527/2Q.HackerRank-Python-2023/assets/139637644/bf2c24e2-8e69-4fdc-b7ef-c8f6bd72e535)
+
 
 🖥️ Sample Input 0: In the first sample input, n is 3, which is odd. Therefore, it satisfies Condition 1, and the program prints "Weird."
 
