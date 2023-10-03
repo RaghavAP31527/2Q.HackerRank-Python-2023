@@ -28,4 +28,4 @@ Condition 4: If n is even (i.e., divisible by 2) and greater than 20, it prints 
 
 🖥️ Sample Output 1: The output for Sample Input 1 is "Not Weird," as explained above.
 
-![FIrst runner up](https://github.com/RaghavAP31527/2Q.HackerRank-Python-2023/assets/139637644/4b5d3b5c-9811-442b-90eb-ffeda02204a9)
+
