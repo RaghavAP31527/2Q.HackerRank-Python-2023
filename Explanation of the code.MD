@@ -13,3 +13,5 @@ if 2 <= n <= 5:: This condition checks if n is in the range between 2 and 5 (inc
 elif 6 <= n <= 20:: This condition checks if n is in the range between 6 and 20 (inclusive). If it is, it prints 'Weird'. This implies that even numbers in this range are considered "Weird."
 
 elif n > 20:: If n is greater than 20 and even, it prints 'Not Weird'. This implies that even numbers greater than 20 are considered "Not Weird."
+
+*This text will appear in italics.*
